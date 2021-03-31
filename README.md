@@ -1,4 +1,4 @@
-# Mapper package helps capitalizes *only* every third alphanumeric character of a string, 
+# Mapper package helps capitalizes *only* every third alphanumeric character of a string
  
 ## Below shows the usage of mapper package
  
